@@ -19,11 +19,10 @@ issue [here](https://github.com/CCBlueX/LiquidBounce/issues).
 ## License
 
 This project is subject to the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). This
-does only apply for source code located directly in this clean repository. During the development and compilation
-process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL
-license.
+only applies to source code located directly in this clean repository. During the development and compilation
+process, additional source code may be used to which we have obtained no rights. The GPL license does not cover such code.
 
-For those who are unfamiliar with the license, here is a summary of its main points. This is by no means legal advice
+For those unfamiliar with the license, here is a summary of its main points. This is by no means legal advice
 nor legally binding.
 
 *Actions that you are allowed to do:*
@@ -35,7 +34,7 @@ nor legally binding.
 *If you do decide to use ANY code from the source:*
 
 - **You must disclose the source code of your modified work and the source code you took from this project. This means
-  you are not allowed to use code from this project (even partially) in a closed-source (or even obfuscated)
+  you are not allowed to use code from this project (even partially) in a closed source (or even obfuscated)
   application.**
 - **Your modified application must also be licensed under the GPL**
 
@@ -61,7 +60,7 @@ its [Documentation](https://docs.spongepowered.org/5.1.0/en/plugin/internals/mix
 
 ## Contributing
 
-We appreciate contributions. So if you want to support us, feel free to make changes to LiquidBounce's source code and
+We appreciate your contributions. So if you want to support us, feel free to make changes to LiquidBounce's source code and
 submit a pull request.
 
 ## Stats
